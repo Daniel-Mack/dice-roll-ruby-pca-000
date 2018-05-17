@@ -4,7 +4,7 @@
 
 1. Write code within a method.
 2. Get more practice returning values.
-3. Explore number ranges.
+3. Explore number ranges. 
 
 ## Ruby Ranges
 
